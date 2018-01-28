@@ -1,0 +1,114 @@
+{
+               "application": {
+                              "accountHolderIdentityProofedIndicator": true
+                              "legalAttestations": {
+                                             "changeInformationAgreementIndicator": true,
+                                             "penaltyOfPerjuryAgreementIndicator": true
+                              },
+                              "requestingFinancialAssistanceIndicator": true,
+							   "spokenLanguageType": "Spanish",
+							   "writtenLanguageType": "Tagalog"				   
+
+							    },
+
+               "members": {
+                              "1131915444774809814": {
+                                             "requestingCoverageIndicator": true,
+                                             "demographic": {
+                                                            "maritalStatus": "UNMARRIED",
+															  "ssn": "294804092",
+															   "birthDate": "1981-12-21",
+                                                            "noHomeAddressIndicator": false,
+                                                            "americanIndianAlaskanNativeIndicator": false,
+                                                            "sex": "FEMALE",
+															  "ethnicity": ["NOT_HISPANIC"],															
+																"race": ["AMERICAN_INDIAN_OR_ALASKAN_NATIVE"],
+																"otherRaceText": "WHITE",
+                                                            "homeAddress": {
+                                                                           "streetName1": "550 E Maxwell Blvd",                                                                        
+                                                                           "cityName": "Montgomery",
+                                                                           "stateCode": "AL",
+                                                                           "zipCode": "36112",
+                                                                           "countyName": "County",
+                                                                           "countyFipsCode": "01101"
+                                                            }
+                                             },
+                                             "income": {
+                                                            "annualTaxIncome": {
+                                                                           "incomeAmount": 13266.00,
+                                                                           "unknownIncomeIndicator": false,
+                                                                           "variableIncomeIndicator": false
+                                                            },
+                                                            "currentIncome": {
+                                                                           "currentIncome1": {
+                                                                                          "incomeAmount": 13266.00,
+                                                                                          "incomeSourceType": "JOB",
+                                                                                          "incomeFrequencyType": "YEARLY",
+                                                                                          "jobIncome": {
+                                                                                                         "employerName": "A1B2C3 Ltd"
+                                                                                          }
+                                                                           }
+                                                            }
+                                             },
+                                             "family": {
+                                                            "claimsDependentIndicator": false,
+                                                            "parentCaretakerIndicator": false,
+                                                            "absentParentIndicator": false,
+                                                            "taxDependentIndicator": false,
+                                                            "taxFilerIndicator": true,
+                                                            "taxReturnFilingStatusType": "SINGLE_FILER"
+                                             },
+                                             "lawfulPresence": {
+                                                            "citizenshipIndicator": true,
+                                                            "naturalizedCitizenIndicator": false,
+                                                            "noAlienNumberIndicator": false
+                                             },
+                                             "insuranceCoverage": {
+                                                            "nonEscMec": {
+                                                                           "insuranceMarketType": [
+                                                                                          "NONE"
+                                                                           ]
+                                                            },
+                                                            "offeredEmployeeCoverage": "NO",
+                                                            "employerSponsoredCoverageOffers": {
+                                                                           "escMecOffer1": {
+                                                                                          "employeeWillDropCoverageIndicator": false,
+                                                                                          "employer": {
+                                                                                                         "name": "fhh",
+                                                                                                         "employerPhoneNumber": "5555550098"
+                                                                                          },
+                                                                                          "employerWillChangeLcsopPremiumIndicator": false,
+                                                                                          "employerWillNoLongerOfferLcsopIndicator": false,
+                                                                                          "newEmployeeLcsopPremiumAmount": 0
+                                                                           }
+                                                            }
+                                             },
+                                             "medicaid": {
+                                                            "medicaidDeniedIndicator": false
+                                             },
+                                             "chip": {
+                                                            "coverageEndedIndicator": false
+                                             },
+                                             "other": {
+                                                            "reconcilePtcIndicatorType": "NOT_APPLICABLE",
+                                                            "incarcerationType": "NOT_INCARCERATED"
+                                             }
+                              }
+               },
+               "household": {
+                              "familyRelationships": [
+                                             [
+                                                            "1131915444774809814",
+                                                            "SELF",
+                                                            "1131915444774809814"
+                                             ]
+                              ],
+                              "taxRelationships": [
+                                             [
+                                                            "1131915444774809814",
+                                                            "TAX_FILER",
+                                                            "1131915444774809814"
+                                             ]
+                              ]
+               }
+}
